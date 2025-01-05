@@ -38,8 +38,8 @@ The project uses a curated dataset from Kaggle, comprising social media posts fr
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/SocialSense.git
-cd SocialSense
+git clone [Social-Sense](https://github.com/fourierblob/Social-Sense-Sentiment-Analysis-on-Meta-Insta-Twitter.git)
+cd Social-Sense-Sentiment-Analysis-on-Meta-Insta-Twitter
 pip install -r requirements.txt
 ```
 
